@@ -2,10 +2,13 @@ body {
     color: white;
     background: black;
     margin: 0px;
+     padding: 20px;
 }
 
 header {
     border: solid 2px rgb(192, 0, 71);
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
 
 
